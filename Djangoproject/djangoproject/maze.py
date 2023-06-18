@@ -1,4 +1,4 @@
-from pyamaze import maze 
+import maze 
 
 m=maze(10,10)
 
